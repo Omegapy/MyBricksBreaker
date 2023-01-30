@@ -24,7 +24,7 @@ Requirements:
 -----------------------------------------------------------------------------------------------------------------------------
 Project description:
 
- Raylib c++, My Bricks Breaker is an arcade game, the goal of game is to destroy bricks by shooting a ball at them.
+ Raylib c++, My Bricks Breaker is an arcade game, the goal of the game is to destroy bricks by shooting a ball at them.
 
 -----------------------------------------------------------------------------------------------------------------------------
 Credits:
