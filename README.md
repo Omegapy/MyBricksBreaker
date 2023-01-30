@@ -11,12 +11,15 @@ My Bricks Breaker
 
 -----------------------------------------------------------------------------------------------------------------------------
 Requirements:  
-![image](https://user-images.githubusercontent.com/121726699/215234958-2659b12a-4181-4f6b-a757-3e868244192e.png)
-![image](https://user-images.githubusercontent.com/121726699/215234968-9f5961e4-8ca0-4f4e-acdc-53c1817547dd.png)
 
  c and c++ 20 or later  
  MS Windows 10 or later  
  Raylib library: https://www.raylib.com  
+ 
+ <p align="left">
+  <img width="75" height="75" src="https://user-images.githubusercontent.com/121726699/215234958-2659b12a-4181-4f6b-a757-3e868244192e.png">
+  <img width="200" height="100" src="https://user-images.githubusercontent.com/121726699/215234968-9f5961e4-8ca0-4f4e-acdc-53c1817547dd.png">
+</p>
 
 -----------------------------------------------------------------------------------------------------------------------------
 Project description:
