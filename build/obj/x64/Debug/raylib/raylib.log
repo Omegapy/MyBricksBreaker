@@ -1,0 +1,12 @@
+﻿  raudio.c
+C:\Users\copya\OneDrive\Desktop\Projects\GitHub omegapy\MyBricksBreaker\raylib-master\src\external\jar_xm.h(242,1): warning C4005: 'DEBUG': macro redefinition
+C:\Users\copya\OneDrive\Desktop\Projects\GitHub omegapy\MyBricksBreaker\raylib-master\src\external\jar_xm.h(242,1): message : 'DEBUG' previously declared on the command line
+  rcore.c
+  rglfw.c
+  rmodels.c
+  rshapes.c
+  rtext.c
+  rtextures.c
+  utils.c
+  Generating Code...
+  raylib.vcxproj -> C:\Users\copya\OneDrive\Desktop\Projects\GitHub omegapy\MyBricksBreaker\bin\Debug\raylib.lib
