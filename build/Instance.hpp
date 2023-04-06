@@ -76,7 +76,7 @@ public:
     
     /*---------------------------------------------------
 
-        Default construtor 
+        Default constructor 
 
      ----------------------------------------------------*/
     Instance();
@@ -166,15 +166,18 @@ private:
     /*------------------------------------------------------
 
         Checks pressed keys
-        indow state, closed, escape key pressed
+        window state, closed, escape key pressed
         and adjust paddle position
         Utilized by update_inst()
 
      -------------------------------------------------------*/
     void keyStrocks();
 
-    
-    
+    /*------------------------------------------------------
+
+        Aiming and Launching the ball
+
+     -------------------------------------------------------*/
     void launchBall();
     
 };

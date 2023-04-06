@@ -336,7 +336,7 @@ int Instance::ballCollisions()
 /*------------------------------------------------------
 
     Checks pressed keys (private)
-    indow state, closed, escape key pressed
+    window state, closed, escape key pressed
     and adjust paddle position
     Utilized by updateInst()
 
@@ -380,7 +380,7 @@ void Instance::keyStrocks()
 //--------------------------------------------------------------------- Method launchBall()
 /*------------------------------------------------------
 
-    Aimming and Launching the ball
+    Aiming and Launching the ball
 
  -------------------------------------------------------*/
 void Instance::launchBall()
