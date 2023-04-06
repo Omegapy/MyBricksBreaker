@@ -3,6 +3,9 @@ My Bricks Breaker
 -----------------------------------------------------------------------------------------------------------------------------
 
  Brick Breaker is a personel project in c++ and raylib.  
+ 
+ The program is the base code or the foundation code for a bricks breaker game.  
+ Brick Breaker is an arcade game, the goal of game is to destroy Bricks by launching ball at them. 
 
  Alejandro Ricciardi (Omegapy)  
  created date: 01/05/2023  
