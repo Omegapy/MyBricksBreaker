@@ -42,7 +42,7 @@ Credits:
 Links:  
 Project GitHub: https://github.com/Omegapy/MyBricksBreaker   
 GitHub: https://github.com/Omegapy  
-YouTube: YouTube: https://www.youtube.com/@omegapy  
+YouTube: YouTube: https://www.youtube.com/watch?v=CRRbDVxea9s  
 Facebook: https://www.facebook.com/profile.php?id=100089638857137  
 Twitter: https://twitter.com/RicciardiAlex
 
