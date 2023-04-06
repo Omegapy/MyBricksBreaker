@@ -97,9 +97,9 @@ const enum BRICK_TYPES {
 
 
 /*----------------
- |               |
- |  Ball struct  |
- |               |
+                
+   Ball struct  
+                
  ----------------*/
 struct Ball {
 
@@ -118,9 +118,9 @@ struct Ball {
 };
 
 /*-------------------
- |                  |
- |  Paddle struct   |
- |                  |
+                   
+   Paddle struct   
+                  
  -------------------*/
 struct Paddle {
 
@@ -144,9 +144,9 @@ struct Paddle {
 };
 
 /*-------------------
- |                  |
- |   Brick struct   |
- |                  |
+                   
+    Brick struct   
+                   
  -------------------*/
 struct Brick {
 
@@ -177,11 +177,11 @@ struct Brick {
 };
 
 /*-------------------
- |                  |
- |   Aiming line    |
- |                  |
+                   
+    Aiming line    
+                   
  -------------------*/
-struct Dotted_line {
+struct DottedLine {
 
 	int startX = 0,
 		startY = 0,
@@ -193,6 +193,5 @@ struct Dotted_line {
 	Color color = WHITE;
 
 	bool isAlive = false;
-
 };
 #endif

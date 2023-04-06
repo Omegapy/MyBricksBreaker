@@ -12,7 +12,6 @@
 /*
     
     Parent class to the Level class
-  
     Renders ball, paddle, and FPS
 
 */
@@ -66,7 +65,7 @@ public:
     Sound soundBall = LoadSound("resources/sounds/ball_collision.wav");
     bool isSound = true;
     // Aiming line
-    Dotted_line aimingLine;
+    DottedLine aimingLine;
 
 
     //----------------------------------------------------------------------------------
