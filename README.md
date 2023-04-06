@@ -16,6 +16,9 @@ Requirements:
  MS Windows 10 or later  
  Raylib library: https://www.raylib.com  
  
+
+![MyBricksBreaker](https://user-images.githubusercontent.com/121726699/230264918-5a306905-0219-4ce5-b258-1072d2436bb4.gif)
+
  <p align="left">
   <img width="75" height="75" src="https://user-images.githubusercontent.com/121726699/215234958-2659b12a-4181-4f6b-a757-3e868244192e.png">
   <img width="200" height="100" src="https://user-images.githubusercontent.com/121726699/215234968-9f5961e4-8ca0-4f4e-acdc-53c1817547dd.png">
